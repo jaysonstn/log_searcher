@@ -13,6 +13,11 @@ Ferramenta com interface gráfica para buscar palavras ou números em arquivos `
 python log_searcher.py
 ```
 
+## Gerar o executável
+```
+python -m PyInstaller --onefile --windowed --icon=log_searcher.ico --add-data "log_searcher.ico;." log_searcher.py
+```
+
 ## Funcionalidades
 
 | Recurso | Descrição |
