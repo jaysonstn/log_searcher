@@ -67,3 +67,4 @@ No campo **Extensões**, você pode adicionar qualquer extensão separada por v�
 ```
 .log,.txt,.out,.err,.trace
 ```
+#### Desenvolvido por Jayson e Matteo.
